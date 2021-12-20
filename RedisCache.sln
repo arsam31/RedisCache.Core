@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisCache", "RedisCache\RedisCache.csproj", "{915DBF5B-E8D9-488E-83A3-DD8166C1BC19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{915DBF5B-E8D9-488E-83A3-DD8166C1BC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915DBF5B-E8D9-488E-83A3-DD8166C1BC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915DBF5B-E8D9-488E-83A3-DD8166C1BC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915DBF5B-E8D9-488E-83A3-DD8166C1BC19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFF4B5D6-78E1-4675-A5ED-03E989DA4F17}
+	EndGlobalSection
+EndGlobal

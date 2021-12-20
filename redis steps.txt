@@ -1,0 +1,17 @@
+redis
+steps 
+
+1-
+------install redis ------
+https://github.com/microsoftarchive/redis/releases
+
+2-
+C:\Program Files\Redis
+i- start server
+ii- redis-cli
+set key value like test test
+get key like test
+
+
+
+
